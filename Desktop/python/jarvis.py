@@ -7,7 +7,8 @@ from gtts import gTTS
 import openai
 import uuid
 
-api_key = "x"
+api_key = "x" #here x is our api key
+#if you have no idea what's that Google it or ask me
 lang = 'en'
 
 openai.api_key = api_key
